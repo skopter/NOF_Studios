@@ -1,4 +1,4 @@
 # NOF_Studios
 Test game dev
 
-This is Pula Pula Puls
+This is a text
